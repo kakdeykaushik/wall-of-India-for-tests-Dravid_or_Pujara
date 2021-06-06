@@ -22,3 +22,9 @@ Dataset is taken from <a href="https://data.world/">data.world</a>
 (More Parameters to be added)
 
 
+Get in touch with me
+<a href="https://www.linkedin.com/in/kaushik-kakdey/">LinkedIn</a>
+
+kaushik.kakdey@gmail.com
+
+
